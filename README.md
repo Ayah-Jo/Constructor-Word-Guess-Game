@@ -6,3 +6,7 @@ In this Game, you will be challenged to guess a word and type the letters until 
 
 ## Requirements
 NodeJS 8.x or above installed.
+
+## Screenshot
+![Constructor Game Screenshot](https://github.com/Ayah-Jo/Constructor-Word-Guess-Game/blob/master/Constructor_Word_Guess.png)
+
